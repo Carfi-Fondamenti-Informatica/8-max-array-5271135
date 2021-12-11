@@ -2,8 +2,8 @@
 // Created by matte on 09/12/2021.
 //
 
-#ifndef ES6
-#define ES6
+#ifndef UNTITLED15_LIB_H
+#define UNTITLED15_LIB_H
 float numeroMassimo(const float numeri[], int dimensione);
 
-#endif //ES6
+#endif // UNTITLED15_LIB_H
