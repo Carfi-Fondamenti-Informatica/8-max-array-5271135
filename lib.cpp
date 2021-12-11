@@ -2,7 +2,7 @@
 // Created by matte on 09/12/2021.
 //
 
-#include <lib.h"
+#include "lib.h"
 float numeroMassimo( const float numeri[], int dim){
     numeri [dim];
     float massimo = numeri[0];
